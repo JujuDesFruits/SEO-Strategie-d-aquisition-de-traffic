@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# SEO-Strategie-d-aquisition-de-traffic
 
-You can use the [editor on GitHub](https://github.com/JujuDesFruits/SEO-Strategie-d-aquisition-de-traffic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+exercice simulation d'une proposition d'un plan d'action SEO dans le cadre des cours IngéSup.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Le site étudié à titre d’exemple est [rally sport classique](http://www.rallysportclassic.com/)
 
-### Markdown
+## Audit Technique du site
+### indexation
+### balisage
+### rapidité
+### crawl
+### certificats
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Audit Éditorial du site
+### ergonomie
+### contenue
 
-```markdown
-Syntax highlighted code block
+## Audit de la popularité du site
+### indices de confiance et de qualité
+### partage sociaux
+### thématique du site
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+bibliographie
+[présentation d'audit SEO](https://www.seo-tech.fr/audit-technique-seo/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JujuDesFruits/SEO-Strategie-d-aquisition-de-traffic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+réalisé par [Julien Trijean](http://am-i-an.unusualperson.com/)  
+2019
