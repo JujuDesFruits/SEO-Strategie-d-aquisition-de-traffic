@@ -1,4 +1,4 @@
-# SEO-Strategie-d-aquisition-de-traffic
+# SEO-Strategie-d-aquisition-de-trafic
 
 Exercice simulation d'une proposition d'un plan d'action SEO dans le cadre des cours IngéSup.   
 
